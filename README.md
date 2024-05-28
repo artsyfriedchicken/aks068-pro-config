@@ -4,6 +4,8 @@ This is my personal config of the ajazz aks068. Feel free to use and modify it a
 
 **Please Note my Primary layout of choice of layout is colemak. You may want to change that if you are not familiar with the layout!**
 
+**THIS IS VERY MUCH A WORK IN PROGRESS AND I WILL DEFFO BE CHANGING THINGS AROUND!!!**
+
 - caps lock > backspace
 - left spacebar > left shift
 - left shift > hyper key
