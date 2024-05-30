@@ -10,7 +10,7 @@ This is my personal config of the Ajazz aks068 Pro (Trimode). Feel free to use a
 
 # Screenshots
 
-Layer 0 - COLEMAK Layout
+## Layer 0 - COLEMAK Layout
 
 ![Screenshot 2024-05-30 at 1 20 58 PM](https://github.com/artsyfriedchicken/aks068-pro-config/assets/100123017/35620e90-5453-43ce-b2f8-2944a15e425c)
 
@@ -22,7 +22,7 @@ Layer 0 - COLEMAK Layout
 - cluster below the knob > `play/pause music`, `delete`, `caps lock`
 
 
-Layer 1 - FN 1
+## Layer 1 - FN 1
   
 ![Screenshot 2024-05-30 at 1 21 05 PM](https://github.com/artsyfriedchicken/aks068-pro-config/assets/100123017/fbf02507-d647-4cec-a391-783b19791238)
 
@@ -33,7 +33,7 @@ Layer 1 - FN 1
 - RGB Controls
 - QWERTY Mode Toggle
 
-Layer 2 - numpad and macros
+## Layer 2 - numpad and macros
 
 ![Screenshot 2024-05-30 at 1 21 13 PM](https://github.com/artsyfriedchicken/aks068-pro-config/assets/100123017/01892457-d6ba-4935-99aa-71085723556d)
 
@@ -41,7 +41,7 @@ Layer 2 - numpad and macros
 - Desc Numpad with symbols on left
 - Aesc (Traditional) Numpad without symbols on right
 
-Layer 3 - QWERTY 
+## Layer 3 - QWERTY 
 
 ![Screenshot 2024-05-30 at 1 21 17 PM](https://github.com/artsyfriedchicken/aks068-pro-config/assets/100123017/872e25dc-cee3-4e16-a109-830531d27d36)
 
