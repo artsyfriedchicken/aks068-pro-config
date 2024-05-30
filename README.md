@@ -1,6 +1,6 @@
 
 # Ajazz AKS068 Config
-This is my personal config of the ajazz aks068. Feel free to use and modify it as you need. Some of my defaults DEFFO will not apply to you, but this seems to be a good as base as any for others to jump off of! 
+This is my personal config of the Ajazz aks068 Pro (Trimode). Feel free to use and modify it as you need. Some of my defaults DEFFO will not apply to you, but this seems to be a good as base as any for others to jump off of! 
 
 **Please Note my Primary layout of choice of layout is colemak. You may want to change that if you are not familiar with the layout!**
 
