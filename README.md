@@ -14,21 +14,26 @@ This is my personal config of the ajazz aks068. Feel free to use and modify it a
 - *check screenshots below for more details!!*
 
 # Screenshots
-![Screenshot 2024-05-29 at 12 52 27 AM](https://github.com/artsyfriedchicken/aks068-pro-config/assets/100123017/dfc21733-d182-408a-8c0c-281c98488095)
+
 Layer 0
+![Screenshot 2024-05-30 at 1 20 58 PM](https://github.com/artsyfriedchicken/aks068-pro-config/assets/100123017/35620e90-5453-43ce-b2f8-2944a15e425c)
 
 
-![Screenshot 2024-05-29 at 12 52 31 AM](https://github.com/artsyfriedchicken/aks068-pro-config/assets/100123017/0d4639f2-115a-4c34-bbb0-d71ff0b83b2f)
+
 Layer 1 - FN 1
+  
+![Screenshot 2024-05-30 at 1 21 05 PM](https://github.com/artsyfriedchicken/aks068-pro-config/assets/100123017/fbf02507-d647-4cec-a391-783b19791238)
 
 
-![Screenshot 2024-05-29 at 12 52 35 AM](https://github.com/artsyfriedchicken/aks068-pro-config/assets/100123017/9e77ebcf-a376-4a40-8b1d-670ba9de2594)
 
 Layer 2 - numpad and macros
 
-  ![Screenshot 2024-05-29 at 12 52 39 AM](https://github.com/artsyfriedchicken/aks068-pro-config/assets/100123017/170d6134-199f-4be8-aa19-fb80e42e280b)
+![Screenshot 2024-05-30 at 1 21 13 PM](https://github.com/artsyfriedchicken/aks068-pro-config/assets/100123017/01892457-d6ba-4935-99aa-71085723556d)
+
 
 Layer 3 - QWERTY 
+
+![Screenshot 2024-05-30 at 1 21 17 PM](https://github.com/artsyfriedchicken/aks068-pro-config/assets/100123017/872e25dc-cee3-4e16-a109-830531d27d36)
 
 
   
