@@ -16,6 +16,7 @@ This is my personal config of the ajazz aks068. Feel free to use and modify it a
 # Screenshots
 
 Layer 0
+
 ![Screenshot 2024-05-30 at 1 20 58 PM](https://github.com/artsyfriedchicken/aks068-pro-config/assets/100123017/35620e90-5453-43ce-b2f8-2944a15e425c)
 
 
